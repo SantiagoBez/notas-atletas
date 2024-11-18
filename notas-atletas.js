@@ -65,3 +65,5 @@ function aplicacaoNotaMediaAtletas(atletas){
 	}
 	return "Aplicação finalizada."	
 }
+
+console.log(aplicacaoNotaMediaAtletas(atletas));
