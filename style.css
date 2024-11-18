@@ -1,0 +1,47 @@
+/* PALETA DE CORES:
+#f49386 - Lilás
+#ed6ab4 - Rosa
+#6a62c0 - Roxo
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #ffffff
+}
+
+h1 {
+  color: #6a62c0;
+  font-size: 40px;
+  padding: 40px;
+  margin: 20px;
+  border: 5px double #ed6ab4;
+}
+
+h2 {
+  color: #6a62c0;
+  font-size: 30px;
+  padding: 20px;
+  margin: 20px;
+  border-bottom: 5px double #ed6ab4;
+}
+
+p {
+  font-size: 25px;
+  padding:10px;
+  margin: 10px;
+}
+
+a {
+  background-color: #f49386;
+  color: #6a62c0;
+  padding: 20px;
+  margin: 5px;
+  border: 5px double #ed6ab4;
+}
+
+
+
+
