@@ -32,9 +32,3 @@
  - [] Otimização/Refatoração dos Arquivos **HTML** e **CSS**;
 
 # Autor: [@SantiagoBez](https://github.com/SantiagoBez).
-
-![imagem teste](url imagem)
-
-git status
-git add
-git commit
