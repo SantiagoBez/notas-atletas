@@ -27,8 +27,8 @@
    - [x] Utilização de tags semânticas (header, main, footer, etc)
    
 # Próximas Atualizações *(TO-DO LIST)*:
- - [] Melhorias de formatação no Arquivo **README**;
- - [] Melhorias de semântica do Arquivo **HTML**;
- - [] Otimização/Refatoração dos Arquivos **HTML** e **CSS**;
+ - [ ] Melhorias de formatação no Arquivo **README**;
+ - [ ] Melhorias de semântica do Arquivo **HTML**;
+ - [ ] Otimização/Refatoração dos Arquivos **HTML** e **CSS**;
 
 # Autor: [@SantiagoBez](https://github.com/SantiagoBez).
